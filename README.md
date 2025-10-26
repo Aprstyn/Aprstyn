@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Andi  
+### 💻 Cyber Security Enthusiast | Penetration Tester 
 
-<!--
-**Aprstyn/Aprstyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🎯 Focused on **Penetration Testing** & **Network Security**  
+- 🔍 Passionate about **CTF challenges**, **vulnerability assessment**, and **offensive security**  
+- 🧑‍💻 Currently learning: `Exploit Development`, `Web Pentesting`, and `Privilege Escalation`  
+- 🌐 Building my portfolio on [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.com/)  
+- 📚 Certifications in progress: `eJPT`, `PNPT`, `OSCP`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+```bash
+# Networking & OS
+Linux | Windows | Wireshark | Nmap | Burp Suite
+
+# Pentesting & Exploitation
+Metasploit | SQLMap | Hydra | Gobuster | Netcat
+
+# Scripting
+Python | Bash | PowerShell
+
+# Forensics & Analysis
+Autopsy | Volatility | Ghidra
